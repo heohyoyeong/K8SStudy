@@ -13,5 +13,7 @@
 
 <hr/>
 
-## 1. Kubernetes 란?
+## 0. 사전 준비 (Virtual Box 설치)
 - 
+
+
