@@ -13,3 +13,6 @@
 
 <hr/>
 - 이후 Virtual Box의 네트워크 설정을 진행해봅시다.
+- 설치한 Virtual Box를 키고 네트워크 설정을 진행해봅시다
+
+  <img src="Setting.PNG" >
