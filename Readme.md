@@ -14,8 +14,8 @@
 <hr/>
 
 ## 0. 사전 준비
-- 1. Virtual Box 설치 및 네트워크 환경 
-- 2. virtual box에 ubuntu 설치
-- 3. ubuntu commad box 사용방법 공부하기
+1. Virtual Box 설치 및 네트워크 환경
+2. virtual box에 ubuntu 설치
+3. ubuntu commad box 사용방법 공부하기
 
 
