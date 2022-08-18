@@ -14,7 +14,7 @@
 <hr/>
 
 ## 0. 사전 준비
-1. Virtual Box 설치 및 네트워크 환경
+1. [Virtual Box 설치 및 네트워크 환경](https://github.com/heohyoyeong/K8SStudy/tree/main/0.%20preparations/MakeVirtualBOX)
 2. virtual box에 ubuntu 설치
 3. ubuntu commad box 사용방법 공부하기
 
